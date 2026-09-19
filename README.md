@@ -43,8 +43,27 @@
      <img width="572" height="342" alt="Update Film" src="https://github.com/user-attachments/assets/64bc0894-c941-4b9f-bf9f-ea0ad53b35ad" />
      <img width="352" height="347" alt="Tambah Film" src="https://github.com/user-attachments/assets/08af12f3-4a95-494a-b4aa-7a8037815aef" />
 
+- python
 
+   <img width="741" height="245" alt="Cari Film" src="https://github.com/user-attachments/assets/753607bd-ecee-4d4a-80a5-8cba54c67e04" />
+   <img width="845" height="110" alt="Daftar Film" src="https://github.com/user-attachments/assets/fe882186-3530-4208-8628-e8ed2aae5ca7" />
+   <img width="502" height="240" alt="Hapus Film" src="https://github.com/user-attachments/assets/f45fe313-2033-4f9d-8b52-a1a6d003c956" />
+   <img width="330" height="312" alt="Tambah Film" src="https://github.com/user-attachments/assets/4a157f82-4945-4099-a072-43b04571b323" />
+   <img width="835" height="340" alt="Tampil Film" src="https://github.com/user-attachments/assets/b281ea36-5e5b-4c16-aef3-1a1d4951891f" />
+   <img width="555" height="316" alt="Update Film" src="https://github.com/user-attachments/assets/e81454aa-f9d6-42f2-b584-617e958f6241" />
 
+- java
 
+   <img width="777" height="240" alt="Cari Film" src="https://github.com/user-attachments/assets/38977446-50e5-41bb-9d5e-1c15f3506b46" />
+   <img width="933" height="106" alt="Daftar Film" src="https://github.com/user-attachments/assets/65ca5db7-1dbb-449b-97a5-82c4f86f9412" />
+   <img width="501" height="242" alt="Hapus Film" src="https://github.com/user-attachments/assets/d5832275-d311-4176-91ed-290014b50a95" />
+   <img width="338" height="305" alt="Tambah Film" src="https://github.com/user-attachments/assets/2ee16ed6-6a7a-4e15-8d0a-6295ab18b91b" />
+   <img width="938" height="337" alt="Tampilkan Film" src="https://github.com/user-attachments/assets/3cca333d-ffd0-4f0d-bd04-6d6d5e896dc6" />
+   <img width="530" height="320" alt="Update Film" src="https://github.com/user-attachments/assets/97ca9ea5-6f98-4719-a9aa-fd715be273c9" />
 
+- php
 
+   <img width="1913" height="300" alt="Cari Film" src="https://github.com/user-attachments/assets/7b9b575a-6691-4184-b768-3bdb42c36bb7" />
+   <img width="1903" height="347" alt="Daftar Film" src="https://github.com/user-attachments/assets/cf390b00-8625-46e1-b901-ba083260f012" />
+   <img width="408" height="311" alt="Tambah Film" src="https://github.com/user-attachments/assets/90127c08-9c17-4455-af00-ab6f2c2e9f60" />
+   <img width="401" height="285" alt="Update Film" src="https://github.com/user-attachments/assets/0c5f6ac8-b829-41b6-a547-70ce4860fa4b" />
