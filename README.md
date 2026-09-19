@@ -33,6 +33,18 @@
     3. Objek dihapus dari penyimpanan (menggunakan fungsi hapus elemen array/list atau unset() pada session PHP), dan indeks disusun ulang agar tetap rapi.
    
 3. Dokumentasi
-   - cpp
+
+- cpp
+  
      <img width="818" height="267" alt="Cari Film" src="https://github.com/user-attachments/assets/e86c26d4-6f6f-4507-b77a-9804dbb5df11" />
+     <img width="882" height="148" alt="Daftar Film Setelah Ditambah" src="https://github.com/user-attachments/assets/405342c7-9d34-4972-ace0-cbff64cc3421" />
+     <img width="887" height="111" alt="Daftar Film" src="https://github.com/user-attachments/assets/cff5d448-71c1-490f-bebe-17632899bcf5" />
+     <img width="567" height="275" alt="Hapus Film" src="https://github.com/user-attachments/assets/e9fe4564-bc1b-4cbe-8e5b-e06483cee297" />
+     <img width="572" height="342" alt="Update Film" src="https://github.com/user-attachments/assets/64bc0894-c941-4b9f-bf9f-ea0ad53b35ad" />
+     <img width="352" height="347" alt="Tambah Film" src="https://github.com/user-attachments/assets/08af12f3-4a95-494a-b4aa-7a8037815aef" />
+
+
+
+
+
 
