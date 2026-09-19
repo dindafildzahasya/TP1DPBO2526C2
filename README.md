@@ -1,4 +1,4 @@
-# TP1DPBO2526C2
+Saya Adinda Fildzah Hasya dengan nim 2501218 mengerjakan tp 1 dalam mata kuliah desain dan pemrograman berorientasi objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 1. Desain Program
    - Program ini dirancang menggunakan paradigma Object-Oriented Programming (OOP) sederhana dengan menerapkan satu entitas class utama yang relevan dengan tema bioskop, yaitu class Film.
